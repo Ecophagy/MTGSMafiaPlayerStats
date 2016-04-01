@@ -1,3 +1,8 @@
+#
+# Reads player information out of an excel document, 
+# calculates the sizes of the various populations, and then writes these into the excel document.
+#
+
 import openpyxl
 
 wb = openpyxl.load_workbook('Analysis.xlsx')

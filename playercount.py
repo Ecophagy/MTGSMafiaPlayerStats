@@ -1,3 +1,8 @@
+#
+# Reads the files in Input/, strips player number indicators, 
+# extracts the first word of the player name and writes them into an excel document
+#
+
 import re
 import openpyxl
 
