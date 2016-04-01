@@ -1,0 +1,147 @@
+id_ego, 
+Prophylaxis 
+Masterplum
+Void
+DCIII
+Megiddo
+odd_igem 
+(Cythare)
+Kosakosa
+iRebel
+Rezombied: Town Neighbor
+Burning_Earth: Town Neighbor
+Dathjoey: Town Busdriver
+Tubehunter, Tanarin Antny223: Town Innocent Child
+Dkingsland: Town Neighbor
+
+2. dkingsland967
+3. SirGrizz 
+r: sneakyhomunculus
+4. Hunger
+5. Rhand
+7. Generic
+9. Wildfire393
+10. Tom, Lynched Day 1, Town Flavor Cop
+11. digi 
+r: Scarbo, Killed Night 1, Mafia 2-Shot Strongman
+12. Asenion, Killed Night 1, Town Bomb Giver
+1. Shockwave07, Lnyched Day 2, Town Jailkeeper
+6. Archmage Eternal, Killed Night 2, Town Jack-of-All-Trades
+8. Storyteller 
+r: LnGrrrR, Lynched Day 3, Town 1-Shot Bulletproof
+
+Burning_Earth the Allosaurus 
+(rr SirGrizz the Triceratops), Town Vanilla
+DCIII the Pterodactylus, Town Vanilla
+scrub the Sinornithosaurus, Town Vanilla
+1. UA lives the Brachiosaurus, Town Vanilla, lynched Day 1.
+2. Antny223 the Stegosaurus, Town Vanilla, killed Night 1.
+3. Shockwave07 the Spinosaurus 
+(rr LoneWolfBlood the Spinosaurus), Mafia Vanilla, lynched Day 2.
+4. Void the Deinonychus 
+rr zemanjaski the Deinonychus), Town Doctor, killed Night 2.
+5. EtR the Compsognathus (fr Scrub the Nedoceratops), Town Vanilla, lynched Day 3.
+6. Rodemy the Tyrannosaurus, Town Tracker, killed Night 3.
+7. Prophylaxis the Ankylosaurus 
+(rr Tom the Ankylosaurus), Mafia Watcher, lynched Day 4.
+8. Nachomamma8 the Velociraptor, Town Vanilla, killed Night 4.
+9. Sir Karn the Carbonemys, Mafia Vanilla, lynched Day 5.
+
+2. hansanator
+7. Rhand
+10. Wheat_Grinder
+12. 7hawk77
+5. SelesynaNewLife (Balloon Face, Mafia Goon) (Lynched Day 1)
+9. Cantripmancer (The Resistance Leader, Town Vanilla) (Killed Night 1)
+11. ITF (Phantom Imposter Llama, Town Vanilla) (Lynched Day 2)
+8. Megiddo (Paul, the Llama, Town Bodyguard) (Killed Night 2)
+6. Shockwave07 (A Giant Vat, Mafia Goon) (Lynched Day 3)
+4. Void (The Orphan Meat Dragon, Town Doublevoter) (Killed Night 3)
+3. Rodemy (The Bartender, Town Vanilla) (Lynched Day 4)
+1. Sir Karn (The Lovely Elderly Lady from 2B, Town Mason) (Killed Night 4)
+
+1. Antny223, Dexter Morgan, Mafia Rolecop, triumphant.
+2. Tanarin, The Kid, Mafia Roleblocker, triumphant.
+ika42, Zombo.com, Town Bodyguard, lynched Day 1.
+sneakyhomunculus, Lady Penelope Creighton-Ward, Town Vanilla, pummeled Night 1.
+7hawk77, Brian Laborn aka Grue, Mafia Goon, lynched Day 2.
+Void, Generic, Town Mason, beheaded Night 2.
+SelesnyaNewLife, Great A'Tuin, Town Vanilla, lynched Day 3.
+iRebel, Steve Jobs, Town Tracker, shot Night 3.
+Dagaen Garrett, Town Vanilla, lynched Day 4.
+Generic, Arthur Dent, Town Vanilla, endgamed Day 4.
+Burning_Earth, Atticus Finch, Town Vanilla, endgamed Day 4.
+Killjoy
+r. TIMsCoT, Seppel, Town Vanilla, endgamed Day 4.
+
+4. Cantripmancer*, Trostani, Selesnya's Voice, Mafia Guild Master  Selesnya - Victorious
+14. Sir Karn*, Stealer of Secrets Mafia Spy  Izzet - Victorious
+13. SelesnyaNewLife, Guttersnipe, Citizen of Ravnica  Selesnya - Lynched Day One
+12. Scarbo, Rakdos, Lord of Riots, Town Guild Master  Rakdos - Killed Night One
+2. AsianInvasion, Niv-Mizzet, Dracogenius, Mafia Guild Master  Izzet - Lynched Day Two
+8. Hunger, Isperia, Supreme Judge, Town Guild Master  Azorius - Killed Night Two
+9. KoolKoal, Tavern Swindler, Town Gambler  Rakdos - Killed Night Three
+16. LnGrrrR 
+(r. Void), Ogre Jailbreaker, Citizen of Ravnica  Selesnya - Lynched Day Four
+3. Axelrod, Oak Street Innkeeper, Citizen of Ravnica  Selesnya - Killed Night Four
+6. dkingsland 967 
+(r. Cythare), Palisade Giant, Town Bodyguard  Rakdos - Killed Night Four
+7. Dagaen, Vraska the Unseen, Neutral Hitman - Won and left the game Night Four
+5. Cyouni, Crosstown Courier, Citizen of Ravnica  Azorius - Lynched Day Five
+1. Archmage Eternal, Jarad, Golgari Lich Lord, Town Guild Master  Golgari - Killed Night Five
+10. masterplum, Ash Zealot, Town Iconoclast  Izzet - Lynched Day Six
+11. Rhand 
+(r. RobRoy*), Axebane Guardian, Citizen of Ravnica  Golgari - Lynched Day Three, Revived Night Three, Endgamed.
+15. TK-421*, Centaur's Herald, Citizen of Ravnica  Golgari - Endgamed
+
+3. Prophylaxis - Theon Greyjoy - Miller - Endgamed
+5. Rhand 
+(r. iRebel) Catelyn Stark - Mafia Lady of the House - Endgamed
+7. Graduating Schoolgirl* - Lord Robb Stark - Town 1-Shot Watcher - Endgamed
+4. Seppel - Osha of the Freefolk - Town 2-Shot Vigilante - Died of Guilt Day 1
+11. Arianrhod - Rickon Stark - Mafia Roleblocker/Saint - Lynched Day 1
+8. Fulcrum* - Bran Stark - Town 1-Shot Bulletproof/Self Watcher - Killed Night 1
+9. ITF* - Hodor - Mafia Goon - Lynched Day 2
+1. Antny223 - Jon Snow - Town Cop - Killed Night 2
+12. Killjoy - Ser Rodrick Cassel - Town Vanilla - Lynched Day 3
+2. Corrik 
+(rr.Shockwave07) 
+(r.Feranath) - Jojen Reed - Town Anticipator - Killed Night 3
+10. Hooker Punch 
+(r.SunglassesCoolpizza) - Maester Luwin - Town Vanilla - Lynched Day 4
+6. Sneakyhomunculus - Meera Reed - Town Vanilla Lynched Day 5 
+
+1. Cantripmancer
+2. Iso
+3. SelesnyaNewLife
+1. SunglassesCoolpizza, Mafia Roleblocker - lynched day 1.
+2. Nachomamma8 Antny223, Town Telepath - killed night 1.
+3. Void, Town Neighbor - modkilled day 2 for inactivity.
+4. Burning_Earth, Town Tweeter - modkilled day 2 for breaking PR.
+5. Gerrard's Mom, Mafia Neighbor, lynched day 2.
+6. rezombied, Town Artistic Speech Therapist - killed night 2.
+7. Deathjoey, Town Angel - lynched day 3.
+8. Killjoy, Town Even Stevens Twin Tracker - killed night 3.
+9. Shockwave07, Town Oddball Twin Watcher - lynched day 4.
+10. Kosakosa, Town Poetic Cop - killed night 4.
+11. desCoures, Town Donating Vig - modkilled day 5.
+12. duckslikerain, Town Merry Jailer - modkilled day 5.
+
+2. Killjoy 
+(r. Shockwave07**)
+6. Wildfire393
+7. DCIII
+8. dkingsland967
+10. Scarlet Rage* 
+(r. LumpySpacePrincess** 
+(r. Void**))
+11. Prophylaxis 
+(r. Iterated
+(r. Bigtraine*))
+12. Iso 
+(r. Arnnaria)
+9. Kosakosa*, William Taggart, Seeker, lynched Day 1
+4. HookerPunch, Adam Jensen, Town Mason, strangled Night 1
+1. Vishamon, David Sarif, Town Inventor, gunned down by laser fire Day 2
+5. Dagaen, Jaron Namir, Mafia Bulletproof Roleblocker, lynched Day 2
+3. Reaching_Nerd, Daedelus, Serial Killer, strangled Night 2
