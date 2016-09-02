@@ -10,7 +10,7 @@ ws = wb.get_sheet_by_name("rawdata")
 
 playerlist=[]
 
-for i in range (1, 25):  
+for i in range (1, 27):  
     templist=[]
     current_row = 3
     while(True):
@@ -55,7 +55,7 @@ _=ws.cell(column=1, row = 2, value = "New")
 _=ws.cell(column=1, row = 3, value = "Active")
 _=ws.cell(column=1, row = 4, value = "Returning")
 current_column = 2
-for i in range (2010, 2016):  
+for i in range (2010, 2017):  
     for j in  range (1,5):
         _=ws.cell(column=current_column, row = 1, value = str(i) + "Q" + str(j))
         current_column+=1
