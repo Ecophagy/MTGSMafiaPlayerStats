@@ -26,7 +26,7 @@ def import_raw_player_data():
             file = os.path.join("Input", "MafiaPlayerList" + str(year) + "Q" + str(quarter) + ".txt")
             # Check if file exists (for years where not all data is available)
             if os.path.isfile(file):
-                with open(file, 'r') as f:
+                with open(file, 'r', encoding='utf-8', errors='ignore') as f:
 
                     # Remove unused lines
                     lines = (line.rstrip("\r\n''") for line in f)
