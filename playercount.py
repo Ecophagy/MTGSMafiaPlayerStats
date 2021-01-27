@@ -11,7 +11,7 @@ import os.path
 def import_raw_player_data():
 
     wb = openpyxl.load_workbook('Analysis.xlsx')
-    ws = wb.get_sheet_by_name("rawdata")
+    ws = wb["rawdata"] # Get sheet
 
     current_col = 1
 
