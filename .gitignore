@@ -3,3 +3,4 @@
 test.py
 *.png
 .idea/
+venv/
